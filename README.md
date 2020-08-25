@@ -2,10 +2,10 @@
 
 ## Overview
 
-The first section of the project describes the loading of the Yelp dataset into SQL in order to explore the data and prepare it for futher analysis and predictive modeling of number of stars that a user assigns.
+The first section of the project describes the loading of the Yelp dataset into SQL in order to explore the data and prepare it for futher analysis and predictive modeling of number of stars that a user assigns that can be performed using machine learning on python.
 
 
-The analysis for this project was performed in MySQL.
+The initial analysis for this project was performed in MySQL.
 
 ## Description of the Yelp Dataset
 
